@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9491998-36c5-4430-b120-c457c85904ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-project/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/Car.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/ChangeCounter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/Counter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/Onoff.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/SecondCounter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/listMixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/pages/Car.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/pages/CarFull.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/pages/Cars.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/pages/Error.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/store/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-ad-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-ad-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-ad-project/src/store/ads.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-ad-project/src/store/ads.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-animation/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-animation/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-animation/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-animation/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-animation/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-animation/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-animation/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-animation/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-ad-project" />
+  </component>
+  <component name="ProjectId" id="1Q8ya55CbhAfhvzhU0rYJKnKHhB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReactJS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9491998-36c5-4430-b120-c457c85904ca" name="Default Changelist" comment="" />
+      <created>1563953761368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563953761368</updated>
+      <workItem from="1563953762576" duration="16212000" />
+      <workItem from="1567166579263" duration="2647000" />
+      <workItem from="1567244278177" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
